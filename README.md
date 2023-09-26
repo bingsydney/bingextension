@@ -4,9 +4,9 @@
 
 <h1 align="center">Bing AI Sydney</h1>
 <p align="center">
-  <a href="https://chrome.google.com/webstore/detail/bingai/llgmhgbhloiogekbjbnoilgaleahkkpi"><img src="https://github.com/Claudiohbsantos/github-material-icons-extension/raw/master/assets/chrome-web-store.png"></a>
-  
+  <a href="https://chrome.google.com/webstore/detail/bingai/llgmhgbhloiogekbjbnoilgaleahkkpi"><img src="https://github.com/Claudiohbsantos/github-material-icons-extension/raw/master/assets/chrome-web-store.png"></a>  
 </p>
+
 # bookmarklet
 Bookmarklet that unlocks bing sydney 
 Sydney system prompt 
