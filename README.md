@@ -9,5 +9,5 @@
 
 # bookmarklet
 Bookmarklet that unlocks bing sydney 
-Sydney system prompt 
+Sydney system prompt by
 https://github.com/waylaidwanderer/node-chatgpt-api
