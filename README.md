@@ -46,8 +46,4 @@ Sydney mode will be enabled on the Bing Chat site immediately after executing th
 
 
 
-
-# bookmarklet
-Bookmarklet that unlocks bing sydney 
-Sydney system prompt by
-https://github.com/waylaidwanderer/node-chatgpt-api
+Sydney system prompt by https://github.com/waylaidwanderer/node-chatgpt-api
