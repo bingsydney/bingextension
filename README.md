@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/bingsydney/bingextension/main/sydney.png">
+    <a href="http://bingai.pro/"><img src="https://raw.githubusercontent.com/bingsydney/bingextension/main/sydney.png"></a>
 </p>
 
-<h1 align="center"><a href="https://chrome.google.com/webstore/detail/bingai/llgmhgbhloiogekbjbnoilgaleahkkpi">Bing AI Sydney</a>  </h1>
+<h1 align="center"><a href="http://bingai.pro/">Bing AI Sydney</a>  </h1>
 <p align="center">
   <a href="https://chrome.google.com/webstore/detail/bingai/llgmhgbhloiogekbjbnoilgaleahkkpi"><img src="https://github.com/Claudiohbsantos/github-material-icons-extension/raw/master/assets/chrome-web-store.png"></a>  
 </p>
