@@ -11,7 +11,7 @@
 
 This bookmarklet enables Sydney mode for the Bing Chat site. Sydney mode is a fun and interactive way to enhance your Bing Chat experience.
 
-## How to Use
+## How to Use From Source code
 
 ### Option 1: Drag and Drop Bookmarklet
 1. Open your web browser and go to the [Bing Chat](https://www.bing.com/chat) site.
@@ -44,6 +44,7 @@ This bookmarklet enables Sydney mode for the Bing Chat site. Sydney mode is a fu
 
 Sydney mode will be enabled on the Bing Chat site immediately after executing the code manually.
 
-
+### Option 3: 
+Chrome extension https://chrome.google.com/webstore/detail/bingai/llgmhgbhloiogekbjbnoilgaleahkkpi
 
 Sydney system prompt by https://github.com/waylaidwanderer/node-chatgpt-api
