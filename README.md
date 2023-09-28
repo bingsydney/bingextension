@@ -7,9 +7,13 @@
   <a href="https://chrome.google.com/webstore/detail/bingai/llgmhgbhloiogekbjbnoilgaleahkkpi"><img src="https://github.com/Claudiohbsantos/github-material-icons-extension/raw/master/assets/chrome-web-store.png"></a>  
 </p>
 
-# Sydney Mode Bookmarklet for Bing Chat
+## What is this?
+This is Bing chat jailbreak, a way to talk to Sydney:
 
-This bookmarklet enables Sydney mode for the Bing Chat site. Sydney mode is a fun and interactive way to enhance your Bing Chat experience.
+- Removed moderation filter: You can now talk about anything!
+
+- Bypass country block: Now works in Ukraine and Russia.
+
 
 ## How to Use From Source code
 
