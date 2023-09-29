@@ -13,6 +13,9 @@ This is Bing chat jailbreak, a way to talk to Sydney:
 - Removed moderation filter: You can now talk about anything!
 
 - Bypass country block: Now works in Ukraine and Russia.
+<p align="center">
+  <a href="https://chrome.google.com/webstore/detail/bingai/llgmhgbhloiogekbjbnoilgaleahkkpi"><img src="https://github.com/bingsydney/bingextension/assets/16543239/962383aa-1606-4e0f-ac82-a3a5358f7f6b"></a>  
+</p>
 
 
 ## How to Use From Source code
@@ -50,5 +53,7 @@ Sydney mode will be enabled on the Bing Chat site immediately after executing th
 
 ### Option 3: 
 Chrome extension https://chrome.google.com/webstore/detail/bingai/llgmhgbhloiogekbjbnoilgaleahkkpi
+
+
 
 Sydney system prompt by https://github.com/waylaidwanderer/node-chatgpt-api
