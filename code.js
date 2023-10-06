@@ -26,7 +26,7 @@ async function main2() {
                 });
                 selected = index;
                 localStorage.setItem('selected', selected); // Store the selected value in localStorage
-                queryElementsInShadowRoots(document.body, '[aria-label="New topic"]')[0].click();
+                  queryElementsInShadowRoots(document.body, '.button-compose')[0].click();
                 button.setAttribute('selected', ''); // Add 'selected' attribute to the clicked button
             });
         });
